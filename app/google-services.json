@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784295417075",
+    "firebase_url": "https://liveboard-e1e1e.firebaseio.com",
+    "project_id": "liveboard-e1e1e",
+    "storage_bucket": "liveboard-e1e1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784295417075:android:36066c21b63b37a8",
+        "android_client_info": {
+          "package_name": "com.example.taha.liveboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784295417075-sqgmrft8vrsts8t96gm2h3q0i8j6jubv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taha.liveboard",
+            "certificate_hash": "1889a202b0c081760aba87553408f09fb64b7f69"
+          }
+        },
+        {
+          "client_id": "784295417075-p0gnd5l8qq2826nnsl3bj6dl43sf7f0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYnvt5IMkFI8yKF2NZUeFhtvmHzkdxyfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784295417075-p0gnd5l8qq2826nnsl3bj6dl43sf7f0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
